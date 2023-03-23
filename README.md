@@ -59,7 +59,8 @@ df.isnull().sum()
 ![2](https://user-images.githubusercontent.com/121166004/227133999-bf300e34-035c-4fdc-9a96-f67bca58a76f.png)
 
 ### MEDIAN:
-![2](https://user-images.githubusercontent.com/121166004/227134164-74d0049c-6db6-4ee3-b02f-bd544315c339.png)
+![Screenshot_20230323_010815](https://user-images.githubusercontent.com/121166004/227135723-26c5d9f7-af3c-403d-b16f-bd37e47f52ce.png)
+
 
 ### NON NULL AFTER:
 
