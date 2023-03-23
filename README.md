@@ -44,7 +44,7 @@ df.isnull().sum()
 ```
 # OUPUT
 ### DATA:
-![OUTPUT]![1](https://user-images.githubusercontent.com/121166004/227132657-40e1a821-bdf5-4f63-8d24-4dec52e2b478.png)
+![1](https://user-images.githubusercontent.com/121166004/227132657-40e1a821-bdf5-4f63-8d24-4dec52e2b478.png)
 
 ### NON NULL BEFORE:
 
