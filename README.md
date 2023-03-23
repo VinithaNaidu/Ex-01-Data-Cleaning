@@ -44,31 +44,34 @@ df.isnull().sum()
 ```
 # OUPUT
 ### DATA:
-![1](https://user-images.githubusercontent.com/121166004/227132657-40e1a821-bdf5-4f63-8d24-4dec52e2b478.png)
+![Screenshot_20230323_011354](https://user-images.githubusercontent.com/121166004/227136904-b6d12793-2bc1-42f4-97b5-3ad8315bc31f.png)
+
 
 ### NON NULL BEFORE:
 
 ### df.info:
-![2](https://user-images.githubusercontent.com/121166004/227133414-caec4d2e-5c8d-4174-a09e-6a6aa563f83c.png)
+![Screenshot_20230323_011409](https://user-images.githubusercontent.com/121166004/227136996-5e995a3e-f4a9-4542-9d07-f03e4711f7eb.png)
+
 
 ### MODE:
-![2](https://user-images.githubusercontent.com/121166004/227133786-e98dd67e-f16a-4af7-9a57-b7a9790ae457.png)
-
+![Screenshot_20230323_011441](https://user-images.githubusercontent.com/121166004/227137087-7bf2ea58-d750-4586-9374-00e0949a0042.png)
 
 ### MEAN:
-![2](https://user-images.githubusercontent.com/121166004/227133999-bf300e34-035c-4fdc-9a96-f67bca58a76f.png)
+![Screenshot_20230323_011454](https://user-images.githubusercontent.com/121166004/227137205-9799a902-9242-4126-86b5-096596dd296a.png)
+
 
 ### MEDIAN:
-![Screenshot_20230323_010815](https://user-images.githubusercontent.com/121166004/227135723-26c5d9f7-af3c-403d-b16f-bd37e47f52ce.png)
-
+![Screenshot_20230323_011503](https://user-images.githubusercontent.com/121166004/227137288-b32162c1-422d-4727-9ec2-444d12e9a590.png)
 
 ### NON NULL AFTER:
 
 ### df.info:
-![2](https://user-images.githubusercontent.com/121166004/227134267-e0095a3f-c232-4f4e-958e-7c00e85faee2.png)
+![Screenshot_20230323_011522](https://user-images.githubusercontent.com/121166004/227137789-420b9897-a9f9-4267-856f-4843a9866b2c.png)
+
 
 ### df.isnull().sum():
-![2](https://user-images.githubusercontent.com/121166004/227134476-e7e4d6af-ba34-4cf8-a949-5296790c4339.png)
+![Screenshot_20230323_011533](https://user-images.githubusercontent.com/121166004/227137734-1de760dc-0403-4d74-9cc2-7c41c2898b07.png)
+
 
 RESULT:
 
